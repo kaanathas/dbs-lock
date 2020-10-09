@@ -2,7 +2,7 @@
   "name": "@reg-yaalalabs/dbs-lock",
   "repository": {
   "type": "git",
-  "url": "https://github.com/kaanathas/final-module/npm.git"
+  "url": "https://github.com/kaanathas/dbs-lock.git"
 },
 "author": "kaanathas",
   "version": "1.0.0",
